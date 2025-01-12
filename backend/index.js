@@ -9,7 +9,7 @@ const formattedDate = currentDate.toLocaleDateString("en-US", {
   weekday: "long", // e.g., Monday
   year: "numeric", // e.g., 2024
   month: "long", // e.g., January
-  day: "numeric", // e.g., 11
+  day: "numeric", // e.g.  , 11
 });
 
 // Format the time
